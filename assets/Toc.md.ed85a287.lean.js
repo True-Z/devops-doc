@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.32dba02b.js";const T=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Toc.md","filePath":"Toc.md","lastUpdated":1695808612000}'),r={name:"Toc.md"},s=o("",3),i=[s];function c(n,_,d,l,h,m){return e(),t("div",null,i)}const f=a(r,[["render",c]]);export{T as __pageData,f as default};
